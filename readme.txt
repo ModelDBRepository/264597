@@ -55,7 +55,7 @@ neurons).
 Simulation 3: This last script shows the response of the network to
 time-varying external input. The duration of simulation and the
 construction of the network is the same. Only here, the feedforward
-input on the inhibitory population is varying between 4Hz and 6H
+input on the excitatory population is varying between 4Hz and 6H
 (following theoretically a gaussian in the paper). During 100ms, it’s
 the first part of the gaussian; here we simulate the gaussian used by
 a ramp. Then for 200ms, it’s the second part of the gaussian, we
