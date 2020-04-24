@@ -162,7 +162,7 @@ if __name__=='__main__':
     #external drive stays at 4Hz for the inh population until the end of the simulation
     #like the simulation for the spontaneous activity
     
-    #for the inh population, the firing rate of the ext drive is varying between 4Hz and amp+4Hz
+    #for the exc population, the firing rate of the ext drive is varying between 4Hz and amp+4Hz
     # following theoretically a gaussian 
 
     interval=0.5
